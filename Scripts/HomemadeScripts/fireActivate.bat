@@ -1,0 +1,1 @@
+cmd /k C:\source\repos\firstPythonProject\Scripts\HomemadeScripts\activate_edited.bat

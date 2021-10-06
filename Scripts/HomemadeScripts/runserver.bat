@@ -1,0 +1,1 @@
+py C:\source\repos\firstPythonProject\mysite\manage.py runserver
