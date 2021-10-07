@@ -410,3 +410,6 @@ Lib/site-packages/django/http/__pycache__/response.cpython-39.pyc
 Lib/site-packages/django/http/__pycache__/request.cpython-39.pyc
 Lib/site-packages/django/http/__pycache__/multipartparser.cpython-39.pyc
 Lib/site-packages/django/core/mail/__pycache__/message.cpython-39.pyc
+mysite/db.sqlite3
+Lib/site-packages/django/conf/locale/ja/__pycache__/__init__.cpython-39.pyc
+Lib/site-packages/django/conf/locale/ja/__pycache__/formats.cpython-39.pyc
